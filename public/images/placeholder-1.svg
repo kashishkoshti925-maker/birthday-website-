@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="400" y2="480">
+      <stop offset="0%" stop-color="#3a1a2e"/>
+      <stop offset="50%" stop-color="#9F234B"/>
+      <stop offset="100%" stop-color="#24121F"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="480" fill="url(#g1)"/>
+  <circle cx="200" cy="200" r="80" fill="#E88BAA" fill-opacity="0.25"/>
+  <path d="M200 280c-45-35-90-70-90-115 0-35 28-58 58-58 22 0 42 14 52 32 10-18 30-32 52-32 30 0 58 23 58 58 0 45-45 80-90 115z" fill="#F7B6CC" fill-opacity="0.35"/>
+  <text x="200" y="420" text-anchor="middle" fill="#D6B477" font-family="Georgia, serif" font-size="14" opacity="0.7">Replace with your photo</text>
+</svg>
